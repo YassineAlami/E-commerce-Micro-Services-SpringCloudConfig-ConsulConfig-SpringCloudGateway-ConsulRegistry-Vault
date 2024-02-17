@@ -1,0 +1,25 @@
+
+<div class="container mt-5">
+  <table class="table table-dark table-striped" *ngIf="orders">
+    <thead>
+    <tr>
+      <th>ID</th>
+      <th>Date</th>
+      <th>Status</th>
+      <th>CustomerId</th>
+      <th>Options</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let o of orders._embedded.orders">
+      <td>{{o.id}}</td>
+      <td>{{o.createdAt | date:'dd/MM/yyyy'}}</td>
+      <td>{{o.status}}</td>
+      <td>{{o.customerId}}</td>
+      <td>
+        <button class="btn btn-sm btn-warning" (click)="getOrderDetails(o)">Details</button>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
