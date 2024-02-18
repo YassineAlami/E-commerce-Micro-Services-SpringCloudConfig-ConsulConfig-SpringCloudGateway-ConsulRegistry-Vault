@@ -1,5 +1,15 @@
 
 The blueprint of this project is to loosen the complexity of certain useful tools and get more familiar with it. It aims to become able to make microservices communicate with each other through the implementation of Consul registration, Consul config along with Spring Cloud Config, Spring Cloud Gateway, Vault config to deal with the secrets 
+Consul Discovery
+
+☑️ Spring Cloud Config
+☑️ Spring Cloud Gateway
+☑️ Customer Service
+☑️ Inventory Service
+☑️ Order Service
+☑️ Consul Config (Billing Service)
+☑️ Vault (Billing Service)
+☑️ Frontend Web With Angular
 
 
 
