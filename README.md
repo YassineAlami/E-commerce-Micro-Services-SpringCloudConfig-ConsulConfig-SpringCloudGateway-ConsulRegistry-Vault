@@ -18,8 +18,14 @@ Architecture:
 
 <img width="1728" alt="Activité Pratique N°4 Mise en oueuvre d'une architecture Micro-services avec Spring Cloud, Consul, Vault" src="https://github.com/YassineAlami/E-commerce-Micro-Services-SpringCloudConfig-ConsulConfig-SpringCloudGateway-ConsulRegistry-Vault/assets/40896739/67c29210-4508-4579-a984-938c957cd9a3">
 
+<hr>
+
+Video Simulation
 
 
+
+
+<hr>
 
 The first thing we have to do is to start 'Consul.' The following interface indicates that Consul is working on this machine at port '8500.' 
 This interface lists the registered services.
