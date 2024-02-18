@@ -22,6 +22,9 @@ Architecture:
 
 Video Simulation
 
+https://github.com/YassineAlami/E-commerce-Micro-Services-SpringCloudConfig-ConsulConfig-SpringCloudGateway-ConsulRegistry-Vault/assets/40896739/34fd8aa1-08dd-4ba8-8313-e17b2ca8b421
+
+
 
 
 
