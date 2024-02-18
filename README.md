@@ -147,7 +147,9 @@ and this tests the ability to get the value of those early created params from t
 consul config assures "hot config".. the changes of the params' values take effect instantly either by including @RefreshScope to our controller or by creating a component that uses @ConfigurationProperties. unlike spring cloude config that needs a POST request + a git commit inorder to refresh without having to restart the service.
 which is seen as one of the major advantages of Consul config over the other config services
 
-****** VIDEO 2
+
+https://github.com/YassineAlami/E-commerce-Micro-Services-SpringCloudConfig-ConsulConfig-SpringCloudGateway-ConsulRegistry-Vault/assets/40896739/1a7c6930-daa5-4ec0-b84b-929e22d930a1
+
 
 
 
