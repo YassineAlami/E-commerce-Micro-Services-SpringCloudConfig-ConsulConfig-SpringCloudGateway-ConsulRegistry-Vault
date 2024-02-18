@@ -11,6 +11,7 @@ Consul Discovery
 ☑️ Vault (Billing Service) <br>
 ☑️ Frontend Web With Angular <br>
 
+<hr>
 
 
 Architecture:
