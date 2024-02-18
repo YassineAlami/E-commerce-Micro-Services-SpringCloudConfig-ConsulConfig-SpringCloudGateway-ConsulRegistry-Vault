@@ -26,6 +26,7 @@ Video Simulation
 
 
 <hr>
+Steps : <br>
 
 The first thing we have to do is to start 'Consul.' The following interface indicates that Consul is working on this machine at port '8500.' 
 This interface lists the registered services.
