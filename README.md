@@ -126,10 +126,10 @@ And these are the items included in the order with the ID '1'
 
 
 to be able to display the entirety of data regarding customers who placed a particular order we needed to create a new controller, and we have done so.
-the fact that we re able to see this means/prouves that :
-✅the discovery service works
-✅the gateway works 
-✅orther service works, which itself means that customer service and inventory service work as well, since orther service needs those 2 micro services inorder to provide the needed data
+the fact that we re able to see this means/prouves that : <br>
+✅the discovery service works <br>
+✅the gateway works <br>
+✅orther service works, which itself means that customer service and inventory service work as well, since orther service needs those 2 micro services inorder to provide the needed data<br>
 
 ![Screenshot (1738) ](https://github.com/YassineAlami/E-commerce-Micro-Services-SpringCloudConfig-ConsulConfig-SpringCloudGateway-ConsulRegistry-Vault/assets/40896739/94b5fd07-9b81-417a-9977-caad331352e3)
 
