@@ -3,13 +3,13 @@ The blueprint of this project is to loosen the complexity of certain useful tool
 Consul Discovery
 
 ☑️ Spring Cloud Config <br>
-☑️ Spring Cloud Gateway
-☑️ Customer Service
-☑️ Inventory Service
-☑️ Order Service
-☑️ Consul Config (Billing Service)
-☑️ Vault (Billing Service)
-☑️ Frontend Web With Angular
+☑️ Spring Cloud Gateway <br>
+☑️ Customer Service <br>
+☑️ Inventory Service <br>
+☑️ Order Service <br>
+☑️ Consul Config (Billing Service) <br>
+☑️ Vault (Billing Service) <br>
+☑️ Frontend Web With Angular <br>
 
 
 
